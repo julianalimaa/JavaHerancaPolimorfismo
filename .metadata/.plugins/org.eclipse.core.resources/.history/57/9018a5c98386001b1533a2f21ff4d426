@@ -1,0 +1,22 @@
+package bytebank_heranca;
+
+public class Cliente implements Autenticavel {
+
+	private ValidaSenha senhaValidada;
+	
+	public public Cliente() {
+		this.senhaValidada = new ValidaSenha();
+	}
+	
+	@Override
+	public void setSenha(int senha) {
+		this.senhaValidada.setSenha(senha);
+		
+	}
+
+	@Override
+	public boolean autentica(int senha) {
+		this.senhaValidada.autentica(senha);
+	}
+
+}

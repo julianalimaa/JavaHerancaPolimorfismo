@@ -1,0 +1,9 @@
+package bytebank_heranca;
+
+public class Designer {
+
+	public double getBonificacao() {
+		return super.getBonificacao() + 200;
+	}
+	
+}

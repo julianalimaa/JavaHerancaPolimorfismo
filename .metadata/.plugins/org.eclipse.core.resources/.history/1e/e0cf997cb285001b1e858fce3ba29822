@@ -1,0 +1,19 @@
+package bytebank_heranca;
+
+public class TesteReferencia {
+
+	public static void main(String[] args) {
+
+
+		Gerente g1 = new Gerente();
+		
+		g1.setNome("Gabriel");
+		
+		String nome = g1.getNome()
+		
+		System.out.println(g1.getNome());
+		
+
+	}
+
+}

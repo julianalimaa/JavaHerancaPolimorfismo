@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="bytebank_heranca.Gerente"/>
+    <fullyQualifiedTypeName name="bytebank_heranca.ControleBonificacao"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.ui.Editor"/>
+    <fullyQualifiedTypeName name="bytebank_heranca.EditorVideo"/>
+    <fullyQualifiedTypeName name="bytebank_heranca.Funcionario"/>
+    <fullyQualifiedTypeName name="bytebank_heranca.Designer"/>
+    <fullyQualifiedTypeName name="Conta"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="ContaPoupanca"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,10 @@
+
+public class ControleInterno {
+
+	
+	private void autentica (Gerente g1) {
+		
+	};
+	
+	
+}

@@ -1,0 +1,16 @@
+
+public class TestaCalculador {
+
+ public static void main(String[] args) {
+	
+	 
+	 
+	 
+	 CalculadorDeImposto calculador = new CalculadorDeImposto();
+	 
+	 calculador.getTotalImposto()
+	 
+}
+	
+	
+}

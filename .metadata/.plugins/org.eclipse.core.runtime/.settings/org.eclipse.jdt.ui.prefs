@@ -1,0 +1,9 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="bytebank_heranca.Funcionario"><rhs name\="bytebank_heranca.Gerente"/><rhs name\="bytebank_heranca.Funcionario"/><rhs name\="bytebank_heranca.EditorVideo"/><rhs name\="bytebank_heranca.Designer"/></lhs><lhs name\="bytebank_heranca.Gerente"><rhs name\="bytebank_heranca.Gerente"/></lhs><lhs name\="bytebank_heranca.ControleBonificacao"><rhs name\="bytebank_heranca.ControleBonificacao"/></lhs><lhs name\="bytebank_heranca.EditorVideo"><rhs name\="bytebank_heranca.EditorVideo"/></lhs><lhs name\="bytebank_heranca.Designer"><rhs name\="bytebank_heranca.Designer"/></lhs><lhs name\="Conta"><rhs name\="ContaCorrente"/><rhs name\="ContaPoupanca"/></lhs><lhs name\="ContaCorrente"><rhs name\="ContaCorrente"/></lhs><lhs name\="ContaPoupanca"><rhs name\="ContaPoupanca"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=20
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

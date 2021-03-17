@@ -1,0 +1,11 @@
+package bytebank_heranca;
+
+public class TesteFuncionario {
+
+	public static void main(String[] args) {
+
+		Funcionario juliana = new Funcionario();
+
+	}
+
+}

@@ -1,0 +1,20 @@
+
+public class TestaCalculador {
+
+ public static void main(String[] args) {
+	
+	 
+	SeguroVida s = new SeguroVida();
+	s.getValorImposto();
+	 
+	ContaCorrente cc = new ContaCorrente(100, 2000)
+	cc.getValorImposto();
+	 
+	CalculadorDeImposto calculador = new CalculadorDeImposto();
+	 
+	System.out.println(calculador.getTotalImposto());
+	 
+}
+	
+	
+}

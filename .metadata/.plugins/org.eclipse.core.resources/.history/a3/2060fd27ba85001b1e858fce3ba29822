@@ -1,0 +1,24 @@
+package bytebank_heranca;
+
+public class TesteReferencia {
+
+	public static void main(String[] args) {
+
+
+		Gerente g1 = new Gerente();
+		g1.setNome("Gabriel");
+		String nome = g1.getNome();
+		g1.setSalario(3000);
+		
+		Funcionario f1 = new Funcionario();
+		f1.setSalario(2000);
+		
+		ControleBonificacao controle = new ControleBonificacao();
+		controle.registra(g1);
+//		controle.registra(f1);
+		
+		System.out.println(controle.getSoma());
+
+	}
+
+}

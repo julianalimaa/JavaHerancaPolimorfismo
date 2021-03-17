@@ -1,0 +1,10 @@
+package bytebank_heranca;
+
+public class TestaGerente {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
